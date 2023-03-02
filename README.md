@@ -1,6 +1,4 @@
-#### Hey! Want to upgrade this project into latest version of laravel and ReactJS? If so, Let me know in the email and if possible, sponsor me.
-
-## Advance E-commerce website in  Laravel 7
+Ecommerce
 
 
 #### Setup video : https://www.youtube.com/watch?v=URX5D1A5XQ4&t=19s
